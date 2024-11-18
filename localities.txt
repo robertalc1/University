@@ -1,2 +1,0 @@
-City,rober,2000,constanta,6
-Village,F,132,QEWR,3

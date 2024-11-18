@@ -1,4 +1,4 @@
-How to Use
+
 Using the application is simple and intuitive:
 
 Adding a Locality: To add a new locality, click the "Add" button and fill in the required details.
